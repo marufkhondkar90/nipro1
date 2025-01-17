@@ -1,0 +1,187 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/*common css start*/
+    .nipro_pd{
+        padding: 60px 0;
+    }
+    .nipro_title{
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+    .top_line::after{
+        height: 35px;
+        bottom: 40px;
+    }
+/*header css start*/
+    .logo{
+        font-size: 25px;
+    }
+/*banner css start*/
+    .b_slider{
+        padding: 85px 0 !important;
+    }
+    .b_slider h1{
+        margin-bottom: 40px;
+        font-size: 30px;
+    }
+    .b_slider p{
+        margin-bottom: 29px;
+    }
+    .nipro_btn{
+        margin-top: 45px;
+    }
+/*feature start*/
+    .fe_1st{
+        padding-bottom: 20px;
+    }
+/*about start*/
+    .about_img{
+        margin-bottom: 40px;
+    }
+    .ab_h2{
+        text-align: center;
+    }
+    .ab_test2{
+      padding-top: 15px;
+    }
+
+/*footer start*/
+    .f_text{
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    .f_link ul{
+        text-align: center !important;
+    }
+    .f_link ul li{
+        margin-right: 15px !important;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*common css start*/
+    .nipro_pd{
+        padding: 60px 0;
+    }
+    .nipro_title{
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+    .top_line::after{
+        height: 35px;
+        bottom: 40px;
+    }
+/*header start*/
+    .logo{
+        font-size: 25px;
+    }
+/*banner start*/
+    .b_slider {
+        padding: 85px 0 !important;
+    }
+    .b_slider h1{
+        margin-bottom: 40px;
+        font-size: 30px;
+    }
+    .b_slider p{
+        margin-bottom: 29px;
+    }
+    .nipro_btn{
+        margin-top: 45px;
+    }
+/*feature start*/
+    .fe_1st{
+        padding-bottom: 20px;
+    }
+/*about start*/
+    .about_img{
+        margin-bottom: 40px;
+    }
+    .ab_h2{
+        text-align: center;
+    }
+    .ab_test2{
+      padding-top: 15px;
+    }
+
+/*footer start*/
+    .f_text{
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    .f_link ul{
+        text-align: center !important;
+    }
+    .f_link ul li{
+        margin-right: 15px !important;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*common css start*/
+    .nipro_pd{
+        padding: 80px 0;
+    }
+    .top_line::after{
+        height: 40px;
+    }
+/*header start*/
+
+/*banner start*/
+    .b_slider{
+        padding: 150px 0;
+    }
+/*feature start*/
+    .fe_1st{
+        padding-bottom: 40px;
+    }
+/*about start*/
+    .about_img{
+        margin-bottom: 40px;
+    }
+    .ab_h2{
+        text-align: center;
+    }
+    .ab_test2{
+      padding-top: 15px;
+    }
+
+/*footer start*/
+    .f_text_p{
+        font-size: 14px;
+    }
+    .f_link ul li{
+        margin-right: 10px !important;
+    }
+    .f_link ul li a{
+        font-size: 15px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*about start*/
+    .about_img{
+        margin-bottom: 40px;
+    }
+    .ab_h2{
+        text-align: center;
+    }
+    .ab_test2{
+      padding-top: 15px;
+    }
+
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*about start*/
+    .ab_h2{
+        text-align: center;
+    }
+/
+
+/* Extra Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
+}
